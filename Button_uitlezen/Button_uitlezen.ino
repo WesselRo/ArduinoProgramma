@@ -1,5 +1,3 @@
-// Button uitlezen
-
 const int buttonPin = 18;
 const int ledBusy = 21;
 const int ledDone = 19;
