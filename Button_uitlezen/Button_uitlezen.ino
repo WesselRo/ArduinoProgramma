@@ -1,9 +1,9 @@
-const int buttonPin = 18;
-const int ledBusy = 21;
-const int ledDone = 19;
-const int ledWaiting = 4;
-const int trigPin = 22;  
-const int echoPin = 23; 
+const int buttonPin = 7;
+const int ledBusy = 12;
+const int ledDone = 13;
+const int ledWaiting = 8;
+const int trigPin = 4;  
+const int echoPin = 2; 
 
 float duration, distance;  
 
